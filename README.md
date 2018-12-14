@@ -1,1 +1,1 @@
-# healthcheck-postgres-9.6
+# healthcheck
